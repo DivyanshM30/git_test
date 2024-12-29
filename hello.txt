@@ -1,0 +1,11 @@
+Frontend development involves creating the user interface and user experience of a web application. It includes:
+
+- Designing and implementing the visual elements that users interact with directly.
+- Using key technologies such as HTML, CSS, and JavaScript.
+- Employing frameworks and libraries like React, Angular, and Vue.js to build dynamic and responsive web applications.
+
+Frontend developers focus on:
+
+- Performance: Ensuring the application runs smoothly and efficiently.
+- Accessibility: Making sure the application is usable by people with various disabilities.
+- Cross-browser compatibility: Ensuring the application works correctly across different web browsers to provide a seamless experience for all users.
